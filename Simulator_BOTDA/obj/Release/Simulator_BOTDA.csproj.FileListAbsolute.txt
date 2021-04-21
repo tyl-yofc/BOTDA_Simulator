@@ -1,0 +1,13 @@
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Release\Simulator_BOTDA.exe.config
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Release\Simulator_BOTDA.exe
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Release\Simulator_BOTDA.pdb
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Release\DevComponents.DotNetBar2.dll
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Release\ZedGraph.dll
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.csprojResolveAssemblyReference.cache
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.ChannelMange.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.EquipMange.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.Main.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.Properties.Resources.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.csproj.GenerateResource.Cache
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.exe
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Release\Simulator_BOTDA.pdb

@@ -1,0 +1,10 @@
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.Properties.Resources.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.csproj.GenerateResource.Cache
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.Main.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Debug\Simulator_BOTDA.exe.config
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Debug\Simulator_BOTDA.exe
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\bin\Debug\Simulator_BOTDA.pdb
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.exe
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.pdb
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.ChannelMange.resources
+E:\模拟器\BOTDA模拟器\Simulator_BOTDA\Simulator_BOTDA\obj\Debug\Simulator_BOTDA.EquipMange.resources
